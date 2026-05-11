@@ -53,7 +53,7 @@ Pastikan di laptop Anda sudah terinstal **Node.js** dan **PostgreSQL**.
 
 ### 1. Persiapan Database
 1. Buka PostgreSQL Anda (bisa lewat pgAdmin atau terminal).
-2. Pastikan ekstensi **PostGIS** sudah terinstal (di Debian: `sudo apt install postgresql-15-postgis-3`).
+2. Pastikan ekstensi **PostGIS** sudah terinstal.
 
 ### 2. Setup Server (Backend)
 1. Masuk ke folder server:
